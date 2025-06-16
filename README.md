@@ -21,7 +21,7 @@ QUICK START
 1. Clone the repository
 ```
 git clone https://github.com/Chaaitanya1710/AI News Journalist with MCP.git
-cd NewsNinja
+
 ```
 
 2. Install Dependencies
