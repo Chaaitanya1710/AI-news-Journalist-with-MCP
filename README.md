@@ -1,13 +1,13 @@
-NewsNinja - Stealthy News Aggregator
 
-Your personal news ninja that silently gathers headlines and Reddit reactions, then delivers audio briefings straight to your ears. *No scroll, just soul.*
+
+Your personal news app that silently gathers headlines and Reddit reactions, then delivers audio briefings straight to your ears. *No scroll, just soul.*
 
 ---
 FEATURES
-- 🗞️ Scrape premium news websites (bypassing paywalls)
-- 🕵️♂️ Extract live Reddit reactions (even from JS-heavy threads)
-- 🔊 AI-powered audio summaries (text-to-speech with ElevenLabs)
-- ⚡ Real-time updates (thanks to Bright Data's MCP magic)
+- Scrape premium news websites (bypassing paywalls)
+- Extract live Reddit reactions (even from JS-heavy threads)
+- AI-powered audio summaries (text-to-speech with ElevenLabs)
+- Real-time updates (thanks to Bright Data's MCP magic)
 
 ---
 PREREQUISITES
@@ -18,9 +18,9 @@ PREREQUISITES
 ---
 QUICK START
 
-1. Clone the Dojo
+1. Clone the repository
 ```
-git clone https://github.com/AIwithhassan/newsninja.git
+git clone https://github.com/Chaaitanya1710/AI News Journalist with MCP.git
 cd NewsNinja
 ```
 
